@@ -32,7 +32,7 @@ function moviesrender(object){
         <br>
         <p>Rating : ${movie.rating.average}</p>
         <br>
-        <p>runtime : ${movie.runtime}</p>
+        <p>runtime : ${movie.premiered}</p>
         <br>
         <p>summary : ${movie.summary}</p>`;
 
